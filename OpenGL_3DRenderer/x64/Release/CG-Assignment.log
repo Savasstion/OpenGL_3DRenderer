@@ -1,0 +1,19 @@
+﻿  AnimManager.cpp
+  FBXModel.cpp
+  FrameTimer.cpp
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\Classes\FrameTimer.cpp(11,44): warning C4244: '=': conversion from 'LONGLONG' to 'float', possible loss of data
+  Texture.cpp
+  Model3DManager.cpp
+  source.cpp
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(104,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(105,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(553,68): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(553,49): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(553,30): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+  UtilityFunctions.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\CG-Assignment\source.cpp(906): warning C4715: 'WinMain': not all control paths return a value
+  All 872 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CG-Assignment.vcxproj -> E:\Other Projects\OpenGL_3DRenderer\Project Folder\CG-Assignment\x64\Release\CG_Assignment.exe
