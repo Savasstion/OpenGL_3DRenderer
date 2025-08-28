@@ -1,6 +1,10 @@
 # Overview
 This is a renderer built on OpenGL to render a 3D robot model for my Graphics Programming course assignment. It uses the FBX SDK to import fbx file formats into the scene and uses linear interpolation to animate the robot using keyframes.
 
+<img width="585" height="588" alt="cgDemo" src="https://github.com/user-attachments/assets/ff0bb66b-0cf7-4397-8107-9db31e32229f" />
+
+(Image of a robot being rendered using OpenGL with diffuse lighting)
+
 # Requirements
 - FBX SDK
 - OpenGL
