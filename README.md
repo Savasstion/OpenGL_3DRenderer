@@ -1,3 +1,6 @@
+# Overview
+This is a renderer built on OpenGL to render a 3D robot model for my Graphics Programming course assignment. 
+
 # Requirements
 - FBX SDK
 - OpenGL
