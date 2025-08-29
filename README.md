@@ -8,6 +8,7 @@ This is a renderer built on OpenGL to render a 3D robot model for my Graphics Pr
 # Requirements
 - FBX SDK
 - OpenGL
+- Windows OS
 
 # Manual
  ## Reset Robot
